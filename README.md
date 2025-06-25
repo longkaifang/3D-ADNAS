@@ -1,4 +1,6 @@
 # 3D-ADNAS
+# Revisiting Multimodal Fusion for 3D Anomaly Detection from An Architectural Perspective
+
 Our code references BM-NAS and Easynet.
 
 [1] Bm-nas: Bilevel multimodal neural architecture search (AAAI-22), link: https://github.com/Somedaywilldo/BM-NAS
